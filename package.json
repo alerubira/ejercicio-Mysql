@@ -1,0 +1,22 @@
+{
+  "name": "ejercicio-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "node":"modules",
+  
+  "scripts": {
+    "start": "node index.js"
+  },
+ 
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql": "^2.18.1",
+    "pug": "^3.0.2"
+  }
+  
+}
